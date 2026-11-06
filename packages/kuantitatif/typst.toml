@@ -1,0 +1,17 @@
+[package]
+name = "skripsi-fisip-untan-kuantitatif"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["Bintang Azhar"]
+license = "MIT-0"
+description = "Skripsi kuantitatif FISIP Universitas Tanjungpura (UNTAN)."
+repository = "https://github.com/bintangazhar/template-skripsi-fisip-untan"
+keywords = ["untan", "universitas tanjungpura", "skripsi", "fisip", "tugas akhir", "kuantitatif", "indonesia"]
+categories = ["thesis"]
+disciplines = ["politics", "communication", "journalism", "sociology", "anthropology"]
+compiler = "0.14.0"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"

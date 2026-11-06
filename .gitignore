@@ -1,0 +1,4 @@
+dist/
+*.pdf
+README.md.bak
+.tmp
